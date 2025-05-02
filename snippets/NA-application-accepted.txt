@@ -1,0 +1,68 @@
+[table="width: 650, class: grid, align: center"]
+[TR="bgcolor: #1E1E1E"][td]
+[COLOR="#ffffff"][I]Director Michinomiya Kimura[/I][/color][I]
+[COLOR="#ffffff"]33rd Administration[/color]                                                                    
+[LEFT][COLOR="#8d8dff"] Federal Bureau of Investigation[/COLOR]
+[COLOR="#ffffff"]Rodeo, Los Santos, San Andreas[/COLOR][/LEFT][/I][LEFT][COLOR="#ffffff"][/COLOR][/LEFT]
+
+[CENTER][img]https://i.imgur.com/le9RmMy.png[/img]
+
+[FONT=Trebuchet MS][COLOR="#8d8dff"][B][SIZE=5][I]NATIONAL ACADEMY[/I][/SIZE][I][/I][/B][I][/I][/COLOR][I][B][SIZE=5] - [COLOR="#008000"]APPLICATION ACCEPTED[/COLOR][/SIZE][/B][/I][B][SIZE=5][COLOR="#008000"][/COLOR][/SIZE][/B][/FONT][/CENTER]
+[INDENT][LEFT][COLOR="#FFFFFF"][FONT=Times New Roman]Dear [I]Mr./Mrs., Lastname[/I]
+
+You have been enrolled in the Bureau as an Intern after being deemed fit based on your exam performance. You are hereby ordered to present yourself to a member of the FBI leadership listed below to sign your employment contract and receive your badge.
+
+
+[TABLE="class: grid, width: 600, align: center"]
+[TR]
+[TD="bgcolor:#9999ff"][CENTER][COLOR="#000000"][FONT=Century Gothic][B]NAME[/B][/FONT][/COLOR][/CENTER][/TD]
+[TD="bgcolor:#9999ff"][CENTER][COLOR="#000000"][FONT=Century Gothic][B]POSITION[/B][/FONT][/COLOR][/CENTER][/TD]
+[TD="bgcolor:#9999ff"][CENTER][COLOR="#000000"][FONT=Century Gothic][B]CONTACT NUMBER[/B][/FONT][/COLOR][/CENTER][/TD]
+[/TR]
+[TR]
+[TD="bgcolor:#3b3b3b"][CENTER]Michinomiya Kimura[/CENTER][/TD]
+[TD="bgcolor:#3b3b3b"][CENTER]Director of the FBI[/CENTER][/TD]
+[TD="bgcolor:#3b3b3b"][CENTER]4327435[/CENTER][/TD]
+[/TR]
+[TR]
+[TD="bgcolor:#3b3b3b"][CENTER]Anthony DiCaprio[/CENTER][/TD]
+[TD="bgcolor:#3b3b3b"][CENTER]Assistant Director of the FBI[/CENTER][/TD]
+[TD="bgcolor:#3b3b3b"][CENTER]400[/CENTER][/TD]
+[/TR]
+[TR]
+[TD="bgcolor:#3b3b3b"][CENTER]David Campbell[/CENTER][/TD]
+[TD="bgcolor:#3b3b3b"][CENTER]ADM Chief of Staff[/CENTER][/TD]
+[TD="bgcolor:#3b3b3b"][CENTER]970[/CENTER][/TD]
+[/TR]
+[TR]
+[TD="bgcolor:#3b3b3b"][CENTER]Max Harm[/CENTER][/TD]
+[TD="bgcolor:#3b3b3b"][CENTER]OPS Chief of Staff[/CENTER][/TD]
+[TD="bgcolor:#3b3b3b"][CENTER]-10000002[/CENTER][/TD]
+[/TR]
+[TR]
+[TD="bgcolor:#3b3b3b"][CENTER]Connor East[/CENTER][/TD]
+[TD="bgcolor:#3b3b3b"][CENTER]National Academy Director[/CENTER][/TD]
+[TD="bgcolor:#3b3b3b"][CENTER]-281[/CENTER][/TD]
+[/TR]
+[/TABLE]
+
+Below are some crucial details in bureau:
+[list][*]Agents must stay in their division for two months after joining.[*]Agents must serve in the Bureau for a minimum of two months before being eligible for an honorable resignation.[*][COLOR="#FF0000"]You'll be carrying out your intern tasks fully undercover. Your real identity should not be revealed to anyone, even FBI agents.[/COLOR][/list]
+[/FONT]
+[table="width: 650, class: grid"]
+[TR]
+[td][SIZE=2]Note :-
+[LIST][*]You're getting enrolled as an intern therefore you're requested to pass an intern phase that consists of a set group of tasks.[*]Upon receiving your badge, you will be assigned a Trainer who will guide you through your tasks and ensure you complete each one correctly.[/LIST]
+[/SIZE][/TD][/TR][/TABLE]
+
+
+[SIZE=1][COLOR="#FF0000"][FONT=Century Gothic]NB:-
+[list][*]Leaking your application in any way will result in an immediate denial.[/list]
+[/FONT][/COLOR][/SIZE]
+
+
+Sincerely,
+[COLOR="#8d8dff"][INSERT NA RANK], [INSERT FBI RANK][/COLOR]
+[INSERT NAME]
+[/COLOR][/LEFT][/INDENT][/td][/tr]
+[/table]

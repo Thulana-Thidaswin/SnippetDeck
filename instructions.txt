@@ -1,0 +1,4 @@
+If you need to add any new BB code , simply add it in the snippets folder and then link it in line number 100.
+Open the terminal in this root directory and run this command.
+
+python -m http.server 8080

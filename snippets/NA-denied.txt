@@ -1,0 +1,29 @@
+[table="width: 650, class: grid, align: center"]
+[TR="bgcolor: #1E1E1E"][td]
+[COLOR="#ffffff"][I]Director Michinomiya Kimura[/I][/color][I]
+[COLOR="#ffffff"]33rd Administration[/color]                                                                   
+[LEFT][COLOR="#8d8dff"] Federal Bureau of Investigation[/COLOR]
+[COLOR="#ffffff"]Rodeo, Los Santos, San Andreas[/COLOR][/LEFT][/I][LEFT][COLOR="#ffffff"][/COLOR][/LEFT]
+
+[CENTER][img]https://i.imgur.com/le9RmMy.png[/img]
+
+[FONT=Trebuchet MS][COLOR="#8d8dff"][B][SIZE=5][I]NATIONAL ACADEMY[/I][/SIZE][I][/I][/B][I][/I][/COLOR][I][B][SIZE=5] - [COLOR="#cc0000"]DENIED[/COLOR][/SIZE][/B][/I][B][SIZE=5][COLOR="#cc0000"][/COLOR][/SIZE][/B][/FONT][/CENTER]
+
+[INDENT][LEFT][COLOR="#FFFFFF"][FONT=Times New Roman]Dear [I]Mr./Mrs., Lastname[/I]
+
+We regret to inform you that your application has been denied for the reasons listed below.
+
+[LIST][*] Reason 1.[/LIST]
+
+You are required to deal with the aforementioned issues and improve upon yourself before we can consider your employment. 
+
+Thank you for your interest in applying to the FBI.
+
+
+You may re-apply in (insert time period).[/FONT][/COLOR][/LEFT][COLOR="#FFFFFF"]
+
+Sincerely,
+[COLOR="#8d8dff"][INSERT NA RANK], [INSERT FBI RANK][/COLOR]
+[INSERT NAME]
+[/COLOR][/INDENT][/td][/tr]
+[/table]

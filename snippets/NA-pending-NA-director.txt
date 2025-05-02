@@ -1,0 +1,23 @@
+[table="width: 650, class: grid, align: center"]
+[TR="bgcolor: #1E1E1E"][td]
+[COLOR="#ffffff"][I]Director Michinomiya Kimura[/I][/color][I]
+[COLOR="#ffffff"]33rd Administration[/color]     
+[LEFT][COLOR="#8d8dff"] Federal Bureau of Investigation[/COLOR]
+[COLOR="#ffffff"]Rodeo, Los Santos, San Andreas[/COLOR][/LEFT][/I][LEFT][COLOR="#ffffff"][/COLOR][/LEFT]
+
+[CENTER][img]https://i.imgur.com/le9RmMy.png[/img]
+
+[FONT=Trebuchet MS][COLOR="#8d8dff"][B][SIZE=5][I]NATIONAL ACADEMY[/I][/SIZE][I][/I][/B][I][/I][/COLOR][I][B][SIZE=5] - [COLOR="#ffffff"]PENDING N.A DIRECTOR[/COLOR][/SIZE][/B][/I][B][SIZE=5][COLOR="#ffffff"][/COLOR][/SIZE][/B][/FONT][/CENTER]
+[INDENT][LEFT][COLOR="#FFFFFF"][FONT=Times New Roman]Dear [I]Mr./Mrs., Lastname[/I]
+
+We appreciate your effort in completing the exam with one of our examiners. Your performance has been recorded, and your application will now undergo a final review by the academy directors. This process may take up to a few days. In the meantime, please follow the guidelines as previously stated.[/FONT]
+
+[SIZE=1][COLOR="#FF0000"][FONT=Century Gothic]NB:-
+[list][*]Leaking your application in any way will result in an immediate denial.[*][COLOR="#FFD700"]Do not contact the Directors asking to review your application.[/color][/list]
+[/FONT][/COLOR][/SIZE]
+
+Sincerely,
+[COLOR="#8d8dff"][INSERT NA RANK], [INSERT FBI RANK][/COLOR]
+[INSERT NAME]
+[/COLOR][/LEFT][/INDENT][/td][/tr]
+[/table]

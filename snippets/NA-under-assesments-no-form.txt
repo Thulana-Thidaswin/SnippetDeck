@@ -1,0 +1,27 @@
+[table="width: 650, class: grid, align: center"]
+[TR="bgcolor: #1E1E1E"][td]
+[COLOR="#ffffff"][I]Director Michinomiya Kimura[/I][/color][I]
+[COLOR="#ffffff"]33rd Administration[/color]     
+[LEFT][COLOR="#8d8dff"] Federal Bureau of Investigation[/COLOR]
+[COLOR="#ffffff"]Rodeo, Los Santos, San Andreas[/COLOR][/LEFT][/I][LEFT][COLOR="#ffffff"][/COLOR][/LEFT]
+
+[CENTER][img]https://i.imgur.com/le9RmMy.png[/img]
+
+[FONT=Trebuchet MS][COLOR="#8d8dff"][B][SIZE=5][I]NATIONAL ACADEMY[/I][/SIZE][I][/I][/B][I][/I][/COLOR][I][B][SIZE=5] - [COLOR="#ffffff"]UNDER ASSESSMENT[/COLOR][/SIZE][/B][/I][B][SIZE=5][COLOR="#ffffff"][/COLOR][/SIZE][COLOR="#ffffff"][/COLOR][/B][COLOR="#ffffff"][/COLOR][/FONT][/CENTER][FONT=Fixedsys][/FONT][INDENT][LEFT][COLOR="#FFFFFF"][FONT=Times New Roman][SIZE=2]Dear [I]Mr./Mrs., Lastname[/I]
+
+We would like to thank you for your interest in the bureau, this letter is to inform you that we have received your application and it's currently under assessment by the [b][COLOR="#8d8dff"]National Academy Supervisors[/COLOR][/b]. We appreciate your patience and kindly ask that you await further instructions.
+
+Check your application periodically for an update, allowing us to promptly address any potential issues with your application.
+
+Thank you for your interest in applying to the FBI.[/SIZE][/FONT]
+
+[SIZE=1][COLOR="#FF0000"][FONT=Century Gothic][B]NB:-
+[list][*]Leaking your application in any way will result in an immediate denial.[/list]
+[/B]
+[list][/list]
+[/FONT][/COLOR][/SIZE]
+
+Sincerely,
+[COLOR="#8d8dff"][INSERT NA RANK], [INSERT FBI RANK][/COLOR]
+[INSERT NAME]
+[/COLOR][/LEFT][/INDENT][/td][/tr][/TABLE]

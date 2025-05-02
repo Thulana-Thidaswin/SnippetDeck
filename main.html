@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>BBCode Snippet Manager</title>
+    <style>
+      body {
+        margin: 0;
+        background: #1e1e1e;
+        color: #f0f0f0;
+        font-family: "Segoe UI", sans-serif;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      .container {
+        max-width: 1000px;
+        padding: 30px 20px;
+        width: 100%;
+      }
+
+      .header-image {
+        width: 100%;
+        max-width: 600px;
+        margin: 20px auto;
+        display: block;
+        border-radius: 12px;
+        box-shadow: 0 0 12px rgba(0, 0, 0, 0.6);
+      }
+
+      h1 {
+        text-align: center;
+        color: #8d8dff;
+        margin-bottom: 5px;
+      }
+
+      p {
+        text-align: center;
+        color: #cccccc;
+      }
+
+      .button-container {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 15px;
+        justify-content: center;
+        margin-top: 30px;
+      }
+
+      button {
+        padding: 12px 18px;
+        background: #2a2a2a;
+        color: #ffffff;
+        border: 1px solid #444;
+        border-radius: 6px;
+        cursor: pointer;
+        font-size: 15px;
+        transition: all 0.2s ease;
+        box-shadow: 0 0 4px #00000070;
+      }
+
+      button:hover {
+        background: #3a3a3a;
+        transform: scale(1.03);
+      }
+
+      .status {
+        margin-top: 30px;
+        font-size: 14px;
+        color: #00ff99;
+        text-align: center;
+      }
+      .image-container {
+        width: 400px;
+        height: 400px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="image-container">
+      <img
+        src="https://i.imgur.com/JsyDyGO.png"
+        alt="Header"
+        class="header-image"
+      />
+    </div>
+
+    <div class="container">
+      <h1>BBCode Snippet Manager</h1>
+      <p>
+        Click any button below to copy the corresponding BBCode to your
+        clipboard.
+      </p>
+
+      <div class="button-container">
+        <button onclick="copySnippet('NA-application-accepted')">
+          Application Accepted
+        </button>
+        <button onclick="copySnippet('NA-blacklisted')">Blacklisted</button>
+        <button onclick="copySnippet('NA-closed')">Closed</button>
+        <button onclick="copySnippet('NA-denied')">Denied</button>
+        <button onclick="copySnippet('NA-hired')">Hired</button>
+        <button onclick="copySnippet('NA-on-hold')">On Hold</button>
+        <button onclick="copySnippet('NA-pending-exam')">Pending Exam</button>
+        <button onclick="copySnippet('NA-pending-NA-director')">
+          Pending NA Director
+        </button>
+        <button onclick="copySnippet('NA-reinstatment-accepted')">
+          Reinstatement Accepted
+        </button>
+        <button onclick="copySnippet('NA-under-assesments-form')">
+          Under Assessments (Form)
+        </button>
+        <button onclick="copySnippet('NA-under-assesments-no-form')">
+          Under Assessments (No Form)
+        </button>
+      </div>
+
+      <div class="status" id="status"></div>
+    </div>
+
+    <script>
+      async function copySnippet(filename) {
+        try {
+          const response = await fetch(`snippets/${filename}.txt`);
+          if (!response.ok) throw new Error("Snippet not found");
+          const text = await response.text();
+          await navigator.clipboard.writeText(text);
+          document.getElementById(
+            "status"
+          ).textContent = `✅ Snippet "${filename}" copied to clipboard`;
+        } catch (error) {
+          document.getElementById(
+            "status"
+          ).textContent = `❌ Failed to load "${filename}.txt"`;
+        }
+
+        setTimeout(() => {
+          document.getElementById("status").textContent = "";
+        }, 3000);
+      }
+    </script>
+  </body>
+</html>

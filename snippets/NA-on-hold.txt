@@ -1,0 +1,92 @@
+[table="width: 700, class: grid, align: center"]
+[TR="bgcolor: #1E1E1E"][td]
+[COLOR="#ffffff"][I]Director Michinomiya Kimura[/I][/color][I]
+[COLOR="#ffffff"]33rd Administration[/color]                                                                      
+[LEFT][COLOR="#8d8dff"] Federal Bureau of Investigation[/COLOR]
+[COLOR="#ffffff"]Rodeo, Los Santos, San Andreas[/COLOR][/LEFT][/I][LEFT][COLOR="#ffffff"][/COLOR][/LEFT]
+
+[CENTER][img]https://i.imgur.com/le9RmMy.png[/img]
+
+[FONT=Treuchet MS][COLOR="#8d8dff"][B][SIZE=5][I][FONT=Trebuchet MS]NATIONAL ACADEMY[/FONT][/I][/SIZE][I][FONT=Trebuchet MS][/FONT][/I][/B][I][FONT=Trebuchet MS][/FONT][/I][/COLOR][I][FONT=Trebuchet MS][B][SIZE=5] - [COLOR="#ffffff"]PENDING EXAMINATION[/COLOR][/SIZE][/B][/FONT][B][SIZE=5][COLOR="#ffffff"][/COLOR][/SIZE][/B][/I][B][SIZE=5][COLOR="#ffffff"][/COLOR][/SIZE][COLOR="#ffffff"][/COLOR][/B][COLOR="#ffffff"][/COLOR][/FONT][/CENTER][INDENT][LEFT][COLOR="#FFFFFF"]
+[FONT=Times New Roman][SIZE=2]Dear [I]Mr./Mrs., Lastname[/I]
+
+
+We would like to inform you that we have decided to move forward with your application. We are looking forward to having you participate in an examination with one of our examiners. Attached below is the [COLOR="#00FF00"]Agent [/COLOR]highlighted in green who will be taking your exam along with their contact information.
+
+
+[TABLE="class: grid, width: 600, align: center"]
+[TR]
+[TD="bgcolor:#9999ff"][CENTER][COLOR="#000000"][FONT=Century Gothic][B]NAME[/B][/FONT][/COLOR][/CENTER][/TD]
+[TD="bgcolor:#9999ff"][CENTER][COLOR="#000000"][FONT=Century Gothic][B]POSITION[/B][/FONT][/COLOR][/CENTER][/TD]
+[TD="bgcolor:#9999ff"][CENTER][COLOR="#000000"][FONT=Century Gothic][B]CONTACT NUMBER[/B][/FONT][/COLOR][/CENTER][/TD]
+[/TR]
+[TR]
+[TD="bgcolor:#3b3b3b"]Connor East [I][COLOR="#FF0000"][SIZE=1](Special occasions)[/SIZE][/COLOR][/I][/TD]
+[TD="bgcolor:#3b3b3b"]Director of the National Academy[/TD]
+[TD="bgcolor:#3b3b3b"]-281[/TD]
+[/TR]
+[TR]
+[TD="bgcolor:#3b3b3b"]Denji Wise [I][COLOR="#FF0000"][SIZE=1](Special occasions)[/SIZE][/COLOR][/I][/TD]
+[TD="bgcolor:#3b3b3b"]Assistant Director of the National Academy[/TD]
+[TD="bgcolor:#3b3b3b"]-615[/TD]
+[/TR]
+[TR]
+[TD="bgcolor:#3b3b3b"]Christina Gold[/TD]
+[TD="bgcolor:#3b3b3b"]Head Examiner[/TD]
+[TD="bgcolor:#3b3b3b"]-754[/TD]
+[/TR]
+[TR]
+[TD="bgcolor:#3b3b3b"]Gideon Valentine[/TD]
+[TD="bgcolor:#3b3b3b"]Head Trainer[/TD]
+[TD="bgcolor:#3b3b3b"]23911[/TD]
+[/TR]
+[TR]
+[TD="bgcolor:#3b3b3b"]Mark Campbell[/TD]
+[TD="bgcolor:#3b3b3b"]Examiner[/TD]
+[TD="bgcolor:#3b3b3b"]-36[/TD]
+[/TR]
+[TR]
+[TD="bgcolor: #3b3b3b"]Benjamin Lawrence[/TD]
+[TD="bgcolor: #3b3b3b"]Examiner[/TD]
+[TD="bgcolor: #3b3b3b"]-7200[/TD]
+[/TR]
+[TR]
+[TD="bgcolor: #3b3b3b"]John Senza Bright[/TD]
+[TD="bgcolor: #3b3b3b"]Examiner[/TD]
+[TD="bgcolor: #3b3b3b"]42786[/TD]
+[/TR]
+[TR]
+[TD="bgcolor: #3b3b3b"]Thulana T. Wise[/TD]
+[TD="bgcolor: #3b3b3b"]Examiner[/TD]
+[TD="bgcolor: #3b3b3b"]66148[/TD]
+[/TR]
+[/TABLE]
+
+[table="width: 650, class: grid"]
+[tr]
+[td][SIZE=2]Note:-
+[list][*] Avoid making unnecessary interactions whilst entering the examiner's vehicle.[*] Be mindful of anyone who might be following you before getting into the Examiner's vehicle.[*] Contact the Examiner via email ((Discord or Forums PM)) and schedule a proper time. Any delay from your end will lead to [color="#cc0000"]denial.[/COLOR][*] The Examination can take anywhere from 45 minutes to an hour. Sometimes even longer! Be patient and follow given instructions.[/list]
+[/SIZE][/td][/tr][/table]
+
+In the meantime, please write us a letter answering the following questions listed below.
+1. If given the chance to serve in the FBI, what actions would you take?
+2. Do you have any plans to take leave or discontinue your service in the near future?
+3. Do you possess a thorough understanding of law enforcement protocols, such as laws, force matrices, radio codes, and government regulations?
+4. What was your previous occupation before considering the bureau?
+5. Are you willing to remain committed to the Bureau for an extended period and uphold its values?
+6. During a regular day, what would be your typical on-duty hours?
+
+Thank you for your interest in applying to the FBI.[/SIZE][/FONT]
+
+[COLOR="#FF0000"][FONT=Century Gothic]NB:-
+[LIST][size=1]Leaking your application in [U]any way[/U] will result in an immediate denial and can reach a blacklist in some cases.[*]You're only allowed to share the information of your application with [B]National Academy agents listed above[/B][/size][/list]
+[size=1][/size][/FONT][/color][FONT=Century Gothic][size=1][COLOR="#FFD700"]
+[list]Contact the N.A Agent mentioned above via email ((Forum PM or Discord)) to schedule your exam.[*][COLOR="#FFD700"]Do not contact the Directors asking to review your application.[/color][/list]
+[/COLOR][/size][COLOR="#FFD700"][/COLOR][/font][COLOR="#FFD700"][/color][/COLOR][/LEFT][COLOR="#FFFFFF"]
+
+
+Sincerely,
+[COLOR="#8d8dff"][INSERT NA RANK], [INSERT FBI RANK][/COLOR]
+[INSERT NAME]
+[/COLOR][/INDENT][/td][/tr]
+[/table]

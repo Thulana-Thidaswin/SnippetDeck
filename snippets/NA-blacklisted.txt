@@ -1,0 +1,25 @@
+[table="width: 650, class: grid, align: center"]
+[TR="bgcolor: #1E1E1E"][td]
+[COLOR="#ffffff"][I]Director Michinomiya Kimura[/I][/color][I]
+[COLOR="#ffffff"]33rd Administration[/color]                                                                   
+[LEFT][COLOR="#8d8dff"] Federal Bureau of Investigation[/COLOR]
+[COLOR="#ffffff"]Rodeo, Los Santos, San Andreas[/COLOR][/LEFT][/I][LEFT][COLOR="#ffffff"][/COLOR][/LEFT]
+
+[CENTER][img]https://i.imgur.com/le9RmMy.png[/img]
+
+[FONT=Trebuchet MS][COLOR="#8d8dff"][B][SIZE=5][I]NATIONAL ACADEMY[/I][/SIZE][I][/I][/B][I][/I][/COLOR][I][B][SIZE=5] - [COLOR="#B22222"]BLACKLISTED[/COLOR][/SIZE][/B][/I][B][SIZE=5][COLOR="#B22222"][/COLOR][/SIZE][COLOR="#B22222"][/COLOR][/B][/FONT][/CENTER]
+
+[INDENT][LEFT][COLOR="#FFFFFF"][FONT=Times New Roman]Dear [I]Mr./Mrs., Lastname[/I]
+
+We would like to thank you for your interest in the bureau, however, we're sorry to inform you that your application has been denied & blacklisted for the following reason(s);
+
+[LIST][*]Reason 1[/LIST]
+
+Seek employment elsewhere.[/FONT]
+
+
+Sincerely,
+[COLOR="#8d8dff"][INSERT NA RANK], [INSERT FBI RANK][/COLOR]
+[INSERT NAME]
+[/COLOR][/LEFT][/INDENT][/td][/tr]
+[/table]
